@@ -1,0 +1,4 @@
+npx create-react-app routing
+
+then
+npm install react-router-dom
